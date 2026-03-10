@@ -1,0 +1,27 @@
+.movie {
+  background: rgb(255, 243, 228);
+  border: 2px solid black;
+  border-radius: 20px;
+  padding: 20px;
+  max-width: 800px;
+  margin: 0 auto;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.movie h1 {
+  font-size: 2.5rem;
+  margin-bottom: 20px;
+}
+
+.movie img {
+  border-radius: 20px;
+  margin-bottom: 20px;
+}
+
+.movie p {
+  font-size: 1.2rem;
+  max-width: 600px;
+  text-align: center;
+}

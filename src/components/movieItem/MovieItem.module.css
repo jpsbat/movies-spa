@@ -1,0 +1,23 @@
+.movie {
+  width: 200px;
+  background: white;
+  padding: 10px;
+  border-radius: 5px;
+  overflow: hidden;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+}
+
+.detailsBtn {
+  display: inline-block;
+  margin-top: 10px;
+  padding: 5px 10px;
+  font-weight: bold;
+  color: darkblue;
+  text-decoration: underline;
+  border-radius: 5px;
+}
+
+.detailsBtn:hover {
+  background: lightblue;
+}
